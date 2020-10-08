@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayGenerator()
+comment0.text=\n\ Constructors\ for\ objects\ of\ class\ ArrayGenerator\n
+comment1.params=s\ l\ h
+comment1.target=ArrayGenerator(int,\ int,\ int)
+comment2.params=
+comment2.target=int[]\ getArray()
+comment3.params=
+comment3.target=void\ ascendingSort()
+comment4.params=
+comment4.target=void\ descendingSort()
+comment5.params=first
+comment5.target=int\ findMaximum(int)
+comment6.params=y\ x
+comment6.target=void\ swap(int,\ int)
+numComments=7
